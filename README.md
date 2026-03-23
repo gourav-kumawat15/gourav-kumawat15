@@ -26,12 +26,12 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gokuUI15&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gourav-kumawat15&show_icons=true&theme=tokyonight)
 
 ---
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=gokuUI15&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=gourav-kumawat15&theme=tokyonight)
 
 ---
 

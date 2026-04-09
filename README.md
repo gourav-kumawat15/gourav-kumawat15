@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/gourav-kumawat-289a63286">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:goouravkumawat@gmail.com">
+  <a href="/cdn-cgi/l/email-protection#bed9d1d1cbccdfc8d5cbd3dfc9dfcafed9d3dfd7d290ddd1d3">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://leetcode.com/gouravk_1245">
@@ -38,7 +38,7 @@
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
@@ -46,11 +46,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourav-kumawat15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gourav-kumawat15&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" width="40%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gourav-kumawat15&theme=tokyonight" alt="GitHub Stats" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gourav-kumawat15&theme=tokyonight" alt="Repos Per Language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gourav-kumawat15&theme=tokyonight" alt="Most Commit Language" width="32%" />
 </p>
-
-> ⚠️ *If the stats card appears broken, it's a temporary rate-limit issue with the hosted service — refreshing usually fixes it. Alternatively, you can [self-host github-readme-stats](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) on Vercel with your own token for a permanent fix.*
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gourav-kumawat15&theme=tokyonight" alt="Profile Details" width="98%" />
+</p>
 
 ---
 
